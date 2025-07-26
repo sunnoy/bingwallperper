@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_set_wallpaper_resolution_name">
+        <item>1080x1920</item>
+        <item>1920x1080</item>
+        <item>480x800</item>
+        <item>800x480</item>
+        <item>720x1280</item>
+        <item>1280x720</item>
+        <item>768x1280</item>
+        <item>1280x768</item>
+        <item>768x1366</item>
+        <item>1366x768</item>
+        <item>1920x1200</item>
+        <item>UHD</item>
+    </string-array>
+
+    <string-array name="pref_set_wallpaper_resolution_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+
+    <string-array name="pref_set_wallpaper_auto_mode_name">
+        <item>@string/pref_set_wallpaper_auto_mode_both</item>
+        <item>@string/pref_set_wallpaper_auto_mode_home</item>
+        <item>@string/pref_set_wallpaper_auto_mode_lock</item>
+    </string-array>
+
+    <string-array name="pref_set_wallpaper_auto_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="pref_country_names">
+        <item>@string/pref_country_auto</item>
+        <item>@string/pref_country_china</item>
+        <item>@string/pref_country_usa</item>
+        <item>@string/pref_country_gb</item>
+        <item>@string/pref_country_fr</item>
+        <item>@string/pref_country_de</item>
+        <item>@string/pref_country_ja</item>
+        <item>@string/pref_country_it</item>
+        <item>@string/pref_country_ir</item>
+        <item>Bulgaria</item>
+    </string-array>
+
+    <string-array name="pref_country_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string-array name="pref_language_names">
+        <item>@string/pref_country_auto</item>
+        <item>English</item>
+        <item>简体中文</item>
+        <item>繁體中文</item>
+        <item>Русский</item>
+        <item>Deutsch</item>
+        <item>Polski</item>
+        <item>Čeština</item>
+        <item>Nederlands</item>
+        <item>Français</item>
+        <item>български</item>
+        <item>Slovenčina</item>
+        <item>日本語</item>
+        <item>Italiano</item>
+        <item>Español</item>
+        <item>Português(Brasil)</item>
+        <item>Ελληνικά</item>
+    </string-array>
+
+    <string-array name="pref_language_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="pref_set_wallpaper_day_fully_automatic_update_type_names">
+        <item>@string/pref_set_wallpaper_day_fully_automatic_update_type_auto</item>
+        <item>@string/pref_set_wallpaper_day_fully_automatic_update_type_system</item>
+        <item>@string/pref_set_wallpaper_day_fully_automatic_update_type_service</item>
+        <item>@string/pref_set_wallpaper_day_fully_automatic_update_type_timer</item>
+    </string-array>
+
+    <string-array name="pref_set_wallpaper_day_fully_automatic_update_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="pref_set_wallpaper_day_fully_automatic_update_interval">
+        <item>1</item>
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="job_type">
+        <item>None</item>
+        <item>GoogleService</item>
+        <item>System</item>
+        <item>DaemonService</item>
+        <item>@string/pref_set_wallpaper_day_fully_automatic_update_type_system</item>
+        <item>@string/pref_set_wallpaper_day_fully_automatic_update_type_service</item>
+        <item>@string/pref_set_wallpaper_day_fully_automatic_update_type_timer</item>
+    </string-array>
+
+</resources>

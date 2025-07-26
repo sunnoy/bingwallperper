@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">Starth Bing Wallpaper</string>
+    <string name="set_wallpaper_running">Setting wallpaper, please wait</string>
+    <string name="set_wallpaper_success">Setting wallpaper success</string>
+    <string name="set_wallpaper_failure">Setting wallpaper failed</string>
+    <string name="network_unavailable">No network available</string>
+    <string name="connection_timed_out">Connection timed out</string>
+    <string name="network_request_error">Network request error</string>
+    <string name="load_image_error">Loading image error</string>
+    <string name="download">Download&#8230;</string>
+    <string name="pull_refresh">"Please pull refresh, "</string>
+    <string name="alert_mobile_data">You\'re using mobile data,would you like to proceed?</string>
+    <string name="alert_save_wallpaper_success">Save wallpaper success</string>
+    <string name="alert_save_wallpaper_failure">Save wallpaper failure</string>
+    <string name="unable_open_url">Unable to open URL</string>
+    <string name="about">About</string>
+    <string name="open_source_license">Open source licenses</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="send_email">Send email</string>
+    <string name="foreground_intent_service_notification_channel">Update wallpaper service notification</string>
+    <string name="foreground_intent_service_success_notification_channel">Update wallpaper success notification</string>
+    <string name="enable_job_error">Cannot enable daily update</string>
+    <string name="request_failed_click_retry">Request failed, please click retry</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="unable_root_permission">Unable root permission</string>
+    <string name="unable_required_permission">Unable required permissions</string>
+    <string name="feedback_copied">Feedback is copied to the clipboard.</string>
+    <string name="share">Share</string>
+    <string name="set_wallpaper">Set wallpaper</string>
+    <string name="miui_root_dialog_hint">You are using MIUI, The lock screen wallpaper features require root permission and need to be enabled manually in Settings.</string>
+    <string name="save">Save</string>
+
+    <!--setting -->
+    <string name="pref_auto_update_wallpaper">Daily Update Setting</string>
+    <string name="pref_update_only_on_wifi">Wi-Fi only</string>
+    <string name="pref_set_wallpaper_daily_update">Enable daily update</string>
+    <string name="pref_set_wallpaper_daily_update_mode">Daily update mode</string>
+    <string name="pref_set_wallpaper_daily_update_interval">Scheduler check interval</string>
+    <string name="pref_auto_update_check_time">Check every %1$d hours</string>
+    <string name="pref_set_wallpaper_daily_update_time">Timer trigger time</string>
+    <string name="pref_set_wallpaper_daily_update_success_notification">Success notification</string>
+    <string name="pref_set_wallpaper_daily_update_success_notification_summary">After successful in the background</string>
+    <string name="pref_set_wallpaper_day_fully_automatic_update_type_auto">Optimal</string>
+    <string name="pref_set_wallpaper_day_fully_automatic_update_type_system">Scheduler</string>
+    <string name="pref_set_wallpaper_day_fully_automatic_update_type_service">Live wallpaper</string>
+    <string name="pref_set_wallpaper_day_fully_automatic_update_type_timer">Timer</string>
+    <string name="pref_choose_auto_set_wallpaper_type">Set wallpaper type</string>
+    <string name="pref_set_wallpaper_auto_mode_both">Home and lock screen</string>
+    <string name="pref_set_wallpaper_auto_mode_home">Home screen</string>
+    <string name="pref_set_wallpaper_auto_mode_lock">Lock screen</string>
+    <string name="pref_wallpaper_setting">Wallpaper Setting</string>
+    <string name="pref_choose_set_wallpaper_resolution">Default set resolution</string>
+    <string name="pref_choose_save_resolution">Default save resolution</string>
+    <string name="pref_auto_save_wallpaper_title">Auto save wallpaper</string>
+    <string name="pref_auto_save_wallpaper_summary">Save wallpaper to photos</string>
+    <string name="pref_stack_blur">Wallpaper blur</string>
+    <string name="pref_stack_blur_mode">Blur wallpaper type</string>
+    <string name="pref_brightness">Wallpaper brightness</string>
+    <string name="pref_brightness_mode">Brightness type</string>
+    <string name="pref_set_miui_lock_screen_wallpaper">MIUI lock screen support</string>
+    <string name="pref_set_miui_lock_screen_wallpaper_note">Need root permission, please use cautious</string>
+    <string name="pref_other">Other Setting</string>
+    <string name="pref_country">Country</string>
+    <string name="pref_country_auto">Local</string>
+    <string name="pref_country_china">China</string>
+    <string name="pref_country_usa">USA</string>
+    <string name="pref_country_gb">British</string>
+    <string name="pref_country_fr">France</string>
+    <string name="pref_country_de">Germany</string>
+    <string name="pref_country_ja">Japan</string>
+    <string name="pref_country_it">Italy</string>
+    <string name="pref_country_ir">Iran</string>
+    <string name="pref_language">Language</string>
+    <string name="pref_clear_cache">Clear cache</string>
+    <string name="pref_clear_cache_success">Clear cache success</string>
+    <string name="pref_log_file">Debug log</string>
+    <string name="pref_crash_report">Usage statistics and crash reports</string>
+    <string name="pref_version">Version</string>
+    <string name="pref_intro">Open intro</string>
+
+    <!--menu-->
+    <string name="menu_main_drawer_wallpaper_info">Wallpaper information</string>
+    <string name="menu_main_setting">Setting</string>
+    <string name="menu_main_wallpaper_history_list">Wallpaper history</string>
+    <string name="menu_main_help">Help</string>
+    <string name="menu_main_feedback">Feedback</string>
+
+    <!--wallpaper detail-->
+    <string name="bing_only_two_week">Bing is only available for the past two weeks</string>
+    <string name="menu_save_wallpaper">Save wallpaper</string>
+    <string name="menu_wallpaper_resolution">Wallpaper resolution</string>
+    <string name="menu_wallpaper_info">Information</string>
+    <string name="detail_wallpaper_resolution_influences">Preview and download resolution</string>
+    <string name="menu_set_wallpaper_mode_home">Set to home screen</string>
+    <string name="menu_set_wallpaper_mode_lock">Set to lock screen</string>
+    <string name="menu_set_wallpaper_mode_both">Set to home and lock screen</string>
+
+    <!--intro-->
+    <string name="intro_update_set">Set automatic update wallpaper</string>
+    <string name="intro_app_explain">App explain</string>
+    <string name="intro_hint_welcome">Welcome to Starth Bing Wallpaper</string>
+    <string name="intro_hint_whitelist">The app needs to be added to the whitelist of the background admin app, as Brevent, Greenify&#8230;. </string>
+    <string name="intro_hint_battery">System battery optimization will make the app can not be performed on time to update the wallpaper, Apps can be added to the battery optimization white list. </string>
+    <string name="ignore_battery_optimization">Ignore battery optimization</string>
+
+</resources>
